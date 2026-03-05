@@ -1,2 +1,2 @@
 # factory-immersive-branding
-Style sheet, fonts and asset for Factory Immersive
+Style sheet, fonts and assets for Factory Immersive
